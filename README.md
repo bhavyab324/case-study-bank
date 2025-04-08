@@ -44,9 +44,9 @@ monthly card turnover over the past three months.
 * Which clients have a higher propensity to buy a credit card? Refer CC_predictions.csv
 * Which clients have a higher propensity to buy a mutual fund? Refer MF_predictions.csv
  Confidential
-* Which clients are to be targeted with which offer? Refer sorted_combined_model_output.csv
+* Which clients are to be targeted with which offer? Refer Top_100_Customers.csv
 * What would be the expected revenue based on your strategy?
-The expected Revenue =
+The expected Revenue = 1337 EUR
 3. Deliverables
 a. A concise executive summary (up to 2 pages) OR a slide deck (5–8 slides) for a technical audience.
 b. A Targeted Client List specifying selected clients for each offer.

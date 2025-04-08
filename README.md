@@ -38,13 +38,13 @@ monthly card turnover over the past three months.
 <img width="837" alt="image" src="https://github.com/user-attachments/assets/a9ec8eff-03ed-4972-a642-d7e61e61c81d" />
 
 ## Solution 
-1. High-Propensity Client Lists and Targeting Strategy: Submissions must directly answer the following questions with justifications:
-• Which clients have a higher propensity to buy a consumer loan? Refer CL_predictions.csv
-• Which clients have a higher propensity to buy a credit card? Refer CC_predictions.csv
-• Which clients have a higher propensity to buy a mutual fund? Refer MF_predictions.csv
+### 1. High-Propensity Client Lists and Targeting Strategy: Submissions must directly answer the following questions with justifications:
+* Which clients have a higher propensity to buy a consumer loan? Refer CL_predictions.csv
+* Which clients have a higher propensity to buy a credit card? Refer CC_predictions.csv
+* Which clients have a higher propensity to buy a mutual fund? Refer MF_predictions.csv
  Confidential
-• Which clients are to be targeted with which offer? Refer sorted_combined_model_output.csv
-• What would be the expected revenue based on your strategy?
+* Which clients are to be targeted with which offer? Refer sorted_combined_model_output.csv
+* What would be the expected revenue based on your strategy?
 The expected Revenue =
 3. Deliverables
 a. A concise executive summary (up to 2 pages) OR a slide deck (5–8 slides) for a technical audience.

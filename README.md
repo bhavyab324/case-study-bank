@@ -49,7 +49,7 @@ monthly card turnover over the past three months.
 The expected Revenue = 1337 EUR
 ### 2. Deliverables
 * a. A concise executive summary (up to 2 pages) OR a slide deck (5–8 slides) for a technical audience.
-Refer : ### TBD
+Refer : Direct Marketing Optimization - BhavyaBhambri.pptx
 * b. A Targeted Client List specifying selected clients for each offer.
 Refer : Top_100_Customers.csv
 * c. A Codebase with all necessary files

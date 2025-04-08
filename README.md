@@ -32,3 +32,26 @@ monthly card turnover over the past three months.
   * CL_predictions.csv
   * MF_predictions.csv
   * sorted_combined_model_output.csv
+ 
+## Results and Evaluation
+
+<img width="837" alt="image" src="https://github.com/user-attachments/assets/a9ec8eff-03ed-4972-a642-d7e61e61c81d" />
+
+## Solution 
+1. High-Propensity Client Lists and Targeting Strategy: Submissions must directly answer the following questions with justifications:
+• Which clients have a higher propensity to buy a consumer loan? Refer CL_predictions.csv
+• Which clients have a higher propensity to buy a credit card? Refer CC_predictions.csv
+• Which clients have a higher propensity to buy a mutual fund? Refer MF_predictions.csv
+ Confidential
+• Which clients are to be targeted with which offer? Refer sorted_combined_model_output.csv
+• What would be the expected revenue based on your strategy?
+The expected Revenue =
+3. Deliverables
+a. A concise executive summary (up to 2 pages) OR a slide deck (5–8 slides) for a technical audience.
+b. A Targeted Client List specifying selected clients for each offer.
+c. A Codebase with all necessary files
+4. Instructions on How to Submit
+• Commit all deliverables to a public GitHub repository in your personal account. (We do not accept zipped submissions attached in emails.)
+• DO NOT include this document or sensitive terms like "Singlife" in the repository.
+• Email the GitHub repository link to the sender of this test. Submission deadline is communicated by the sender of the test, please check your email.
+

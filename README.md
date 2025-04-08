@@ -24,4 +24,11 @@ monthly card turnover over the past three months.
     * 05_Optimal_RevenueStrategy.ipynb - It includes script used for Combining all product-wise predicted probabilities and class and then calculating an effective revenue for each product for each customer/client.The final score is Maximum value of Effective Revenue per customer and the Recommended Offer is the Product corresponding to the maximum Effective Revenue.
       All customers are sorted by Score and saved to the **_sorted_combined_model_output.csv_** file.
 * **TransformedData**
+   * processed_data_salesCC.csv
+   * processed_data_salesCL.csv
+   * processed_data_salesMF.csv
 * **ModelOutput**
+  * CC_predictions.csv
+  * CL_predictions.csv
+  * MF_predictions.csv
+  * sorted_combined_model_output.csv

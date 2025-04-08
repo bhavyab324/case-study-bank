@@ -48,14 +48,9 @@ monthly card turnover over the past three months.
 * What would be the expected revenue based on your strategy?
 The expected Revenue = 1337 EUR
 ### 2. Deliverables
-a. A concise executive summary (up to 2 pages) OR a slide deck (5–8 slides) for a technical audience.
+* a. A concise executive summary (up to 2 pages) OR a slide deck (5–8 slides) for a technical audience.
 Refer : ### TBD
-b. A Targeted Client List specifying selected clients for each offer.
-Refer : Refer Top_100_Customers.csv
-c. A Codebase with all necessary files
+* b. A Targeted Client List specifying selected clients for each offer.
+Refer : Top_100_Customers.csv
+* c. A Codebase with all necessary files
  Refer : Code Folder
-### 3. Instructions on How to Submit
-• Commit all deliverables to a public GitHub repository in your personal account. (We do not accept zipped submissions attached in emails.)
-• DO NOT include this document or sensitive terms like "Singlife" in the repository.
-• Email the GitHub repository link to the sender of this test. Submission deadline is communicated by the sender of the test, please check your email.
-
